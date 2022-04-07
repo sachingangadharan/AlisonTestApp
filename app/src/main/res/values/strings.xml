@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AlisonTestApp</string>
+    <string name="strike_price"> <strike>190</strike></string>
+</resources>
